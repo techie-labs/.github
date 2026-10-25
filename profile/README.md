@@ -66,3 +66,33 @@
 
 We prioritize raw execution speed, type safety across boundaries, and decoupled micro-architectures:
 
+```
+[ Backend & Core ]
+├── Go (Fiber) • Python (FastAPI / PyTorch) • PostgreSQL • Redis • Docker Orchestration
+
+[ Web Frontends ]
+├── React 19 • TanStack Start • TypeScript • Tailwind CSS • Modern State Mechanics
+
+[ Mobile & Multiplatform ]
+├── Kotlin Multiplatform (KMP) • Compose Multiplatform • Native Android (Jetpack) • Flutter / Dart
+
+[ AI & Vision Inference ]
+├── EfficientNet-B2 • OpenCV • Multimodal Clinical Tabular Integration • On-Device TFLite
+```
+
+<br/>
+
+## 🤝 Let's Collaborate
+
+Whether you are:
+- **A University Researcher / Professor** with a research grant or clinical study needing an industrial DUDI engineering partner.
+- **A MedTech / BioTech Startup** looking for an experienced engineering team to build compliant, high-load software.
+- **An Enterprise** requiring specialized computer vision or multiplatform mobile development.
+
+Feel free to reach out to explore how Techie can help engineer your vision into reality.
+
+<br/>
+
+<div align="center">
+  <sub>Built with precision by the <b>Techie</b> Engineering Team.</sub>
+</div>
