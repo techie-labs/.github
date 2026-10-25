@@ -27,16 +27,16 @@
       <h3>🩺 01. Digital Health & Clinical AI</h3>
       <p>Transforming clinical algorithms and diagnostic frameworks into type-safe, privacy-conscious medical platforms.</p>
       <ul>
-        <li><b><a href="https://github.com/techie-workspace/nirmacare-docs">NirmaCare</a></b>: Full-stack multimodal AI platform for Chronic Kidney Disease (CKD) staging, combining clinical tabular metrics and retinal fundus image inference (EfficientNet-B2).</li>
-        <li><b><a href="https://github.com/techie-workspace/mindtain-fe">MinDTain</a></b>: Research-backed pediatric Caries Risk Assessment (CRA) platform developed in partnership with university dental researchers.</li>
+        <li><b><a href="https://mindtain.id" target="_blank">MinDTain</a></b> <a href="https://mindtain.id"><img src="https://img.shields.io/badge/Live-mindtain.id-0ea5e9?style=flat-square" alt="mindtain.id"/></a>: Research-backed pediatric Caries Risk Assessment (CRA) platform developed in clinical partnership with university dental researchers.</li>
+        <li><b>NirmaCare</b> <img src="https://img.shields.io/badge/Repo-Private%20Clinical-gray?style=flat-square" alt="Private"/>: Full-stack multimodal AI platform for Chronic Kidney Disease (CKD) staging, combining clinical tabular metrics and retinal fundus image inference (EfficientNet-B2).</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🌱 02. Smart Bio-Resources & AgriTech</h3>
       <p>Applying computer vision and smart knowledge-extension systems to empower grassroots growers and agricultural commodity grading.</p>
       <ul>
-        <li><b><a href="https://github.com/techie-workspace/bananalyze-android">Bananalyze</a></b>: Edge-optimized mobile computer vision system for real-time post-harvest ripeness, cultivar, and defect detection.</li>
-        <li><b><a href="https://github.com/techie-workspace/ewak-mobile">e-Wak</a></b>: Digital aquaculture extension app connecting fisheries scientists with fish farmers for pond biosecurity and feeding optimization.</li>
+        <li><b>Bananalyze</b> <img src="https://img.shields.io/badge/Repo-Private%20R%26D-gray?style=flat-square" alt="Private"/>: Edge-optimized mobile computer vision system for real-time post-harvest ripeness, cultivar, and defect detection.</li>
+        <li><b>e-Wak</b> <img src="https://img.shields.io/badge/Repo-Academic%20Partner-gray?style=flat-square" alt="Private"/>: Digital aquaculture extension mobile app connecting fisheries scientists with fish farmers for pond biosecurity and feeding optimization.</li>
       </ul>
     </td>
   </tr>
@@ -45,16 +45,17 @@
       <h3>🧪 03. Techie Labs (Open Source & Tooling)</h3>
       <p>Our commitment to developer productivity and high-performance cross-platform infrastructure.</p>
       <ul>
-        <li><b><a href="https://github.com/techie-workspace/volta">Volta</a></b> ⚡: Unified Kotlin Multiplatform (KMP) battery monitoring solution across Android, iOS, Desktop, and Web.</li>
-        <li><b><a href="https://github.com/techie-workspace/kscope">KScope</a></b> 🔭: Powerful on-device database and local storage inspector for Compose Multiplatform.</li>
-        <li><b><a href="https://github.com/techie-workspace/kameleoon">Kameleoon</a></b> 🦎: Production-grade starter template for modern multiplatform library authors.</li>
+        <li><b><a href="https://mvnrepository.com/artifact/io.github.techie-labs/volta-android" target="_blank">Volta</a></b> ⚡ <a href="https://mvnrepository.com/artifact/io.github.techie-labs/volta-android"><img src="https://img.shields.io/badge/Maven%20Central-Artifact-f59e0b?style=flat-square" alt="Maven Central"/></a>: Unified Kotlin Multiplatform (KMP) battery monitoring solution across Android, iOS, Desktop, and Web.</li>
+        <li><b>KScope</b> 🔭 <img src="https://img.shields.io/badge/Repo-Internal%20Tool-gray?style=flat-square" alt="Private"/>: Powerful on-device database and local storage inspector for Compose Multiplatform.</li>
+        <li><b>Kameleoon</b> 🦎 <img src="https://img.shields.io/badge/Repo-Internal%20Template-gray?style=flat-square" alt="Private"/>: Production-grade starter template for modern multiplatform library authors.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💍 04. Consumer & Lifestyle Ventures</h3>
-      <p>Incubating internal products with rich interactive UI/UX and resilient backends for specific vertical markets.</p>
+      <h3>📱 04. Consumer, Lifestyle & Mobile Ventures</h3>
+      <p>Incubating real-world consumer products with rich interactive UI/UX and resilient multiplatform architectures.</p>
       <ul>
-        <li><b><a href="https://github.com/techie-workspace/temanten-fe">Temanten</a></b>: Full-service wedding planning and vendor orchestration ecosystem built with Go Fiber and modern reactive web architecture.</li>
+        <li><b><a href="https://play.google.com/store/apps/details?id=com.muslimpath.team" target="_blank">MuslimPath</a></b> <a href="https://play.google.com/store/apps/details?id=com.muslimpath.team"><img src="https://img.shields.io/badge/Google%20Play-Live%20App-10b981?style=flat-square" alt="Play Store"/></a>: Production Compose Multiplatform daily Islamic lifestyle and habit companion app published on Google Play.</li>
+        <li><b>Temanten</b> <img src="https://img.shields.io/badge/Status-In%20Development-purple?style=flat-square" alt="In Dev"/>: Full-service wedding planning and vendor orchestration ecosystem built with Go Fiber and modern reactive web architecture.</li>
       </ul>
     </td>
   </tr>
